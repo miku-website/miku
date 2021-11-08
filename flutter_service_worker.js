@@ -5309,18 +5309,18 @@ const RESOURCES = {
 "assets/lib/photos/wollastonite/tek/wollastonite_tek%2520(72).jpg": "38fc9d1e85e9e6d7ddd4d16c6f2acd79",
 "assets/lib/photos/wollastonite/tek/wollastonite_tek%2520(8).jpg": "7ea95dfff02238e855729ff4c966d67b",
 "assets/lib/photos/wollastonite/tek/wollastonite_tek%2520(9).jpg": "2f44e89251a13c08210ffe97373bc07a",
-"assets/NOTICES": "9082717349b386f879a82cc48577b366",
+"assets/NOTICES": "e0217d9aa174cb259a804b5c78bc3964",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "446988e599ec460f94b7900c8b93a179",
-"/": "446988e599ec460f94b7900c8b93a179",
-"main.dart.js": "6d16191a89c1e60037a444773266e080",
-"manifest.json": "640ba6954000835606b62b7f2ce914d0",
-"version.json": "5c2b93b494644fc08640e4dd8b698019"
+"index.html": "92f243efc689579d3f9dd6a2a67d7647",
+"/": "92f243efc689579d3f9dd6a2a67d7647",
+"main.dart.js": "4bee44dcbfba94687f05899c8ad7f3d3",
+"manifest.json": "b7c2904aaf03a5a8db538421cc622d0a",
+"version.json": "183b196a2fe2d92a220a1e4702c148b3"
 };
 
 // The application shell files that are downloaded before a service worker can
